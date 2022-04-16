@@ -1,4 +1,4 @@
-# NETFLIX-UI-CLONE
+# Netflix-UI-clone
 ## Description
 A website where I'm trying to clone the Ui of the netflix website
 
